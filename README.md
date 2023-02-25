@@ -50,7 +50,7 @@ I love sharing my knowledge with others, and I do that during my free time with 
 
 <!-- About section: END -->
 <p align = "center" style="padding:5px;">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sethtara_icons=true&theme=bear" width = 400>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact&hide=css,html)
+![sethtara's github stats](https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onedark)
 
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sethtara&theme=dark&hide_border=true" width = 400>
 </p>
