@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Tarakant Seth</h3>
 
 <!-- Profile Views -->
 
@@ -33,23 +33,24 @@ Here are some ideas to get you started:
  <!-- About section -->
 
 ---
-✨ I'm a computer science engineer and passionate front-end developer.
+✨ I'm a computer science engineer and passionate front-end developer and i love playing tennis.
 
 
-I love sharing my knowledge with others, and I do that during my free time with my friend's circle.I love contributing to opensource communities and helping them in any way possible
+I love sharing my knowledge with others, and I do that during my free time with my friend's circle.I love contributing to opensource communities and helping them in any way possible. 
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 - 😄 My Pronouns: He/Him  
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+- 💬 Ask me about: web-design, data-science, cloud, dev-ops, django, cp, electron, Linux-sys...
 
 - 📫 How to reach me: [@tarakant91](https://twitter.com/tarakant91)
 
 
 <!-- About section: END -->
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethtara" alt="sethtara's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sethtara&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
-</div>
+<p align = "center" style="padding:5px;">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sethtara_icons=true&theme=bear" width = 400>
+
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sethtara&theme=dark&hide_border=true" width = 400>
+</p>
