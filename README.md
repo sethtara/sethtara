@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Heading -->
 
-<h3>:pray: Namaste I'm Tarakant Seth</h3>
+<h2>:pray: Namaste I'm Tarakant Seth</h2>
 
 <img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat"/>
 
