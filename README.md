@@ -18,34 +18,34 @@ Here are some ideas to get you started:
 
 
 <!-- Heading -->
-
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact" width=400>
 <h2>:pray: Namaste I'm Tarakant Seth</h2>
+<a  href="https://">Website </a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat">
 
-<img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat"/>
-
-
-<a href="https://">Website</a> • <a href="https://twitter.com/tarakant91">Twitter</a>
+<p>
+<a href="https://www.linkedin.com/in/tarakantseth/"><img src="https://img.shields.io/badge/-Tarakant%20Seth-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;alt="LinkedIn Badge"></a>
+<a href="https://matrix.to/#/@yeharuto:matrix.org/"><img src="https://img.shields.io/badge/-@yeharuto-informational?style=plastic&amp;labelColor=informational&amp;logo=Matrix&amp;alt="Matrix Badge"></a>
+</p>
 
 
  <!-- About section -->
-
----
-✨ I'm a computer science engineer and passionate front-end developer 
-
+✨ I'm a computer science engineer and a self-taught passionate FrontEnd developer from :nepal: 
 I love sharing my knowledge with others, and I do that during my free time with my friend's circle.I love contributing to opensource communities and helping them in any way possible. 
 
+
+<img align=right src="https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onelight" width=350/>
+
 - 😄 My Pronouns: He/Him  
-
-- 💬 Ask me about: web-design, data-science, cloud, dev-ops, django, cp, electron, Linux-sys...
-
-- 📫 How to reach me: [@tarakant91](https://twitter.com/tarakant91)
+- 📫 How to reach me: [@tarakant91](https://www.linkedin.com/in/tarakantseth/)
+- 💬 Ask me about: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> • data-science  • <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  • cloud  • <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  • dev-ops  • <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  • django  • <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 <!-- STAT's -->
+<p></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact">
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onelight) -->
 
 
 
