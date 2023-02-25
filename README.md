@@ -18,17 +18,27 @@ Here are some ideas to get you started:
 
 
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Tarakant Seth</h3>
+<table>
+<tr>
+<td><h3 >:pray: Namaste I'm Tarakant Seth</h3></td>
+<td><a href="https://">Website</a> •
+<a href="https://twitter.com/tarakant91">Twitter</a></td>
+</tr>
+</table>
+
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<div style="display:flex;">
+<img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat"/>
+<a href="https://">Website</a> •
+<a href="https://twitter.com/tarakant91">Twitter</a>
 
-<p align="center">
-  <a href="https://">Website</a> •
-  <a href="https://twitter.com/tarakant91">Twitter</a>
-</p>
+</div>
+
+
+
+
 
  <!-- About section -->
 
@@ -38,9 +48,6 @@ Here are some ideas to get you started:
 
 I love sharing my knowledge with others, and I do that during my free time with my friend's circle.I love contributing to opensource communities and helping them in any way possible. 
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
 - 😄 My Pronouns: He/Him  
 
 - 💬 Ask me about: web-design, data-science, cloud, dev-ops, django, cp, electron, Linux-sys...
@@ -48,7 +55,7 @@ I love sharing my knowledge with others, and I do that during my free time with 
 - 📫 How to reach me: [@tarakant91](https://twitter.com/tarakant91)
 
 
-<!-- About section: END -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact&hide=css,html)
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onedark" />
+<!-- STAT's -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact)
+![sethtara's github stats](https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onelight)
