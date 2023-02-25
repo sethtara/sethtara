@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethtara" alt="sethtara's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sethtara&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
+</div>
