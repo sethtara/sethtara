@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 
 <!-- Heading -->
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact" width=350>
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact&theme=dark" width=400>
+
 <h2>:pray: Namaste I'm Tarakant Seth</h2>
+
 <a  href="https://">Website </a>
 <p>
 <img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat">
