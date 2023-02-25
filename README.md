@@ -36,16 +36,16 @@ Here are some ideas to get you started:
 ✨ I'm a computer science engineer and passionate front-end developer.
 
 
-I love sharing my knowledge with others, and I do that during my free time with my friend's circle. I'm a [GitHub Star](https://stars.github.com/profiles/sethtara/). I love contributing to opensource communities and helping them in any way possible
+I love sharing my knowledge with others, and I do that during my free time with my friend's circle.I love contributing to opensource communities and helping them in any way possible
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 😄 My Pronouns: She/Her   
+- 😄 My Pronouns: He/Him  
 
 - 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/tarakant91)
+- 📫 How to reach me: [@tarakant91](https://twitter.com/tarakant91)
 
 
 <!-- About section: END -->
