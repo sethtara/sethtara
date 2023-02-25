@@ -49,8 +49,6 @@ I love sharing my knowledge with others, and I do that during my free time with 
 
 
 <!-- About section: END -->
-<p align = "center" style="padding:5px;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact&hide=css,html)
-![sethtara's github stats](https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onedark)
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onedark" />
 
-</p>
