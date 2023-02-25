@@ -18,33 +18,13 @@ Here are some ideas to get you started:
 
 
 <!-- Heading -->
-<table border=0 >
-<tr>
 
-<td>
 <h3>:pray: Namaste I'm Tarakant Seth</h3>
 
 <img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat"/>
 
 
-<a href="https://">Website</a> • <a href="https://twitter.com/tarakant91">Twitter</a></td>
-</td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact"></td>
-
-</tr>
-</table>
-
-
-
-<!-- Profile Views -->
-
-<div style="display:flex;">
-
-
-</div>
-
-
-
+<a href="https://">Website</a> • <a href="https://twitter.com/tarakant91">Twitter</a>
 
 
  <!-- About section -->
@@ -63,7 +43,7 @@ I love sharing my knowledge with others, and I do that during my free time with 
 
 <!-- STAT's -->
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact">
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onelight) -->
 
