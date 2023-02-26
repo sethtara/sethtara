@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat">
 
 <p>
-<a href="https://www.linkedin.com/in/tarakantseth/"><img src="https://img.shields.io/badge/-Tarakant%20Seth-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;alt="LinkedIn Badge"></a>
-<a href="https://matrix.to/#/@yeharuto:matrix.org/"><img src="https://img.shields.io/badge/-@yeharuto-informational?style=plastic&amp;labelColor=informational&amp;logo=Matrix&amp;alt="Matrix Badge"></a>
+<a href="https://www.linkedin.com/in/tarakantseth/"><img src="https://img.shields.io/badge/-Tarakant%20Seth-blue?style=plastic&amp;labelColor=grey&amp;logo=LinkedIn&amp;alt="LinkedIn Badge"></a>
+<a href="https://matrix.to/#/@yeharuto:matrix.org/"><img src="https://img.shields.io/badge/-@yeharuto-informational?style=plastic&amp;labelColor=grey&amp;logo=Matrix&amp;alt="Matrix Badge"></a>
+<a href="https://mastodon.social/@tarakant"><img src="https://img.shields.io/badge/-@tarakant-informational?style=plastic&amp;labelColor=grey&amp;logo=Mastodon&amp;alt="Mastodon Badge"></a>
 </p>
 
 
