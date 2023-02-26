@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h2>:pray: Namaste I'm Tarakant Seth</h2>
 
-<a  href="https://">Website </a>
+<a  href="https://sethtara.github.io/">Website </a>
 <p>
 <img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat">
 
