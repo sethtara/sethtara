@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <!-- Heading -->
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact&theme=codeSTACKr" width=400>
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&count_private=true&layout=compact&theme=codeSTACKr" width=400>
 
 <h2>:pray: Namaste I'm Tarakant Seth</h2>
 
