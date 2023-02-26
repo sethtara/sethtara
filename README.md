@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- Heading -->
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&layout=compact&theme=codeSTACKr" width=400>
 
-<h1>:pray: Namaste I'm Tarakant Seth</h1>
+<h2>:pray: Namaste I'm Tarakant Seth</h2>
 
 <a  href="https://sethtara.github.io/">sethtara.github.io</a>
 <p>
