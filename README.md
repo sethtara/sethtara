@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <!-- Heading -->
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethtara&count_private=true&layout=compact&theme=codeSTACKr" width=350>
+<img align=right src="https://github-readme-stats-PAT_1.vercel.app/api/top-langs/?username=sethtara&count_private=true&layout=compact&theme=codeSTACKr" width=350>
 
 <h2>:pray: Namaste I'm Tarakant Seth</h2>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 I love sharing my knowledge with others, and I do that during my free time with my friend's circle.I love contributing to opensource communities and helping them in any way possible. 
  -->
 <!-- 
-<img align=right src="https://github-readme-stats-PAT_1.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onelight" width=350/> -->
+<img align=right src="https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onelight" width=350/> -->
 
 - 😄 My Pronouns: He/Him  
 - 📫 How to reach me: [@tarakant91](https://www.linkedin.com/in/tarakantseth/)
