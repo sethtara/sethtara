@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <a  href="https://sethtara.github.io/">sethtara.github.io</a>
 <p>
-<img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat">
-
+<!-- <img src="https://komarev.com/ghpvc/?username=sethtara&label=Profile%20views&color=0e75b6&style=flat">
+ -->
 <p>
 <a href="https://www.linkedin.com/in/tarakantseth/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp;labelColor=grey&amp;logo=LinkedIn&amp;alt="LinkedIn Badge"></a>
 <a href="https://matrix.to/#/@yeharuto:matrix.org/"><img src="https://img.shields.io/badge/-Matrix-informational?style=plastic&amp;labelColor=grey&amp;logo=Matrix&amp;alt="Matrix Badge"></a>
@@ -42,7 +42,7 @@ I love sharing my knowledge with others, and I do that during my free time with 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=sethtara&count_private=true&show_icons=true&theme=onelight" width=350/> -->
 
 - 😄 My Pronouns: He/Him  
-- 📫 How to reach me: [@tarakant91](https://www.linkedin.com/in/tarakantseth/)
+- 📫 How to reach me: [@tarakant91](https://www.twitter.com/tarakant91/)
 - 💬 Ask me about: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> • data-science  • <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  • cloud  • <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  • dev-ops  • <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  • django  • <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
